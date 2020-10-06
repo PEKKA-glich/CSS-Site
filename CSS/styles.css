@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Oxygen", sans-serif;
+}
+h1 {
+  margin: 50px auto 0;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  line-height: 2;
+  padding-bottom: 10px;
+  margin: auto auto 0;
+  color: #66bfbf;
+}
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+.container {
+  position: relative;
+  background-color: #ebfffa;
+  margin: 0;
+  padding-top: 70px;
+}
+.top-cloud-image {
+  display: block;
+  position: relative;
+  left: 70%;
+}
+.bottom-cloud-image {
+  display: block;
+  align-content: center;
+  position: relative;
+  left: 20%;
+  margin-top: 20px;
+}
+.heading {
+  position: relative;
+  top: 100px;
+  text-align: center;
+}
+.skill-row {
+  position: relative;
+  width: 50%;
+  margin: auto auto 65px;
+  line-height: 2;
+  text-align: left;
+}
+.skills {
+  margin: 3rem auto rem auto;
+}
+.profile-pic {
+  height: 10rem;
+  margin: 1rem;
+}
+.design-pic {
+  height: 10rem;
+  margin-left: 30px;
+  float: right;
+}
+.laptop-pic {
+  height: 10rem;
+  margin-right: 30px;
+  float: left;
+}
+hr {
+  border: none;
+  border-top: dotted #c6d3d3 16px;
+  width: 5%;
+}
+.hello {
+  margin: 3rem auto 3rem;
+}
+.contact-me {
+  margin: 3rem auto 3rem;
+}
+.bottom-container {
+  padding: 2rem;
+  background-color: #66bfbf;
+}
+.copy-right {
+  margin: 2rem auto 0;
+  color: #eaf6f6;
+  font-size: 12px;
+  font-weight: bold;
+}
+a {
+  color: #11999e;
+  text-decoration: none;
+  font-weight: bold;
+  margin: auto 20px auto;
+}
+.btn {
+    font-family: "Montserrat", sans-serif;
+    margin-top: 1.5rem;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-size: .8rem;
+    font-weight: bold;
+    padding: .8rem;
+    background-color: #66BFBF;
+    border: solid #337FED 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ p{
+     font-weight: bold;
+     color: rgb(44, 44, 44);
+ }
